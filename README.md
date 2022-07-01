@@ -1,7 +1,7 @@
-![UCHIHA INTERNATIONAL](https://telegra.ph/file/3b5ec665cd87e169c4cc3.jpg)
-# Shikimori
+![UCHIHA INTERNATIONAL](https://telegra.ph/file/6bd068b036047f94b3ce0.jpg)
+# UCHIHA INTERNATIONAL
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
-
+[![License](https://img.shields.io/badge/License%20-GPLv3-brightgreen-names.svg?style=flat-square)]()
 
 A modular Telegram Group Management bot, can be found on telegram as [UCHIHA INTERNATIONAL](https://t.me/UI_official_BOT).
 
@@ -46,7 +46,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from Shikimori.sample_config import Config
+from UCHIHA_INTERNATIONAL.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 5086893460  # your telegram ID
@@ -152,7 +152,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m Shikimori`
+`python3 -m UCHIHA INTERNATIONAL`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 

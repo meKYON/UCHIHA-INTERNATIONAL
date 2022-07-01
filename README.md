@@ -1,7 +1,8 @@
 ![UCHIHA INTERNATIONAL](https://telegra.ph/file/6bd068b036047f94b3ce0.jpg)
 # UCHIHA INTERNATIONAL
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
-[![License](https://img.shields.io/badge/License%20-GPLv3-brightgreen-names.svg?style=flat-square)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 
 A modular Telegram Group Management bot, can be found on telegram as [UCHIHA INTERNATIONAL](https://t.me/UI_official_BOT).
 

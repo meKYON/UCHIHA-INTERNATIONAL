@@ -1,16 +1,16 @@
 {
-      "name": "Emiko Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "UCHIHA INTERNATIONAL BOT",
+      "description": "UCHIHA INTERNATIONAL'S ofiicial group management bot.",
       "keywords": [
          "telegram",
-         "advance",
+         "BOT",
          "group",
-         "manager",
-         "naorobot"
+         "management",
+         "official"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
+   "logo":    "https://telegra.ph/file/45b244df13e1cc59f7d01.jpg",  
+   "repository": "https://github.com/meKYON/UCHIHA-INTERNATIONAL",
    "addons": [
           {
          "options": {
